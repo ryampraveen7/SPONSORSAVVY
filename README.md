@@ -1,1 +1,2 @@
 # SPONSORSAVVY
+The document discusses the relationship between different variables, such as company revenue, crude oil price, and Jio revenue. It presents the correlation coefficients between these variables and concludes that there is a weak relationship between "Revenue (in millions of USD)" and "Crude Oil Price per Barrel (USD)", and a strong relationship between "Revenue (in millions of USD)" and "Jio Revenue (in millions of USD)". The document also includes a correlation matrix and a table of correlation coefficients.
